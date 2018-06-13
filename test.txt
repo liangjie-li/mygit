@@ -1,3 +1,4 @@
 Terry have a fun!
 This is a test for rebase.
 This is another test.
+This is another git.
