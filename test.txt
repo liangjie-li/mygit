@@ -1,1 +1,2 @@
 Terry have a fun!
+This is a test for rebase.
