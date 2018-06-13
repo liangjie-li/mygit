@@ -7,4 +7,5 @@ test no-ff merge.
 add comment.
 add author.
 this is last second line.
+This is also last 2 line.
 asdfaskldfjalskf
