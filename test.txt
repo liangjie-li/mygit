@@ -1,4 +1,4 @@
-Terry have a fun!
-This is a test for rebase.
+Terry master have a fun!
+This is a test for master.
 This is master test.
 This is master git.
