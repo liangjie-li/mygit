@@ -6,5 +6,5 @@ Creating a new branch is quick and(&) simple.
 test no-ff merge.
 add comment.
 add author.
-this is last second line.
-This is also last 2 line.
+That is last second line.
+That is also last 2 line.
