@@ -1,14 +1,17 @@
 # Vim 学习资源整理收集
-
 > 该仓库主要用于收集比较新的 Vim 配置及使用教程，并在此基础上做时当的补充
 
 <!-- vim-markdown-toc GFM -->
-
 - [常用链接](#常用链接)
 - [知乎专栏](#知乎专栏)
 - [文章推荐](#文章推荐)
-
 <!-- vim-markdown-toc -->
+
+## ToDo List
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 ### 常用链接
 
