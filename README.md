@@ -2,8 +2,6 @@
 这是一个实践Git和Markdown Docs的测试Repo，目前想上传一些读书笔记，编程tips和避坑指南</br>
 这是一个实践Git和Markdown Docs的测试Repo，目前想上传一些读书笔记，编程tips和避坑指南
 
-## TODO
-
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
